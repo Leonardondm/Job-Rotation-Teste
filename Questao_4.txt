@@ -1,0 +1,2 @@
+No momento do cruzamento os dois veiculos vão estar na mesma distancia de Ribeirão Preto pois esta 'um ao lado do outro', porem no instante
+logo após o cruzamento o gaminhão estará mais perto porque ele esta indo em direção a Ribeirão Preto e o carro esta se afastando.
